@@ -1,8 +1,8 @@
 # Hi, I'm Zak 🛡️
-**Future DevSecOps & Automation Engineer | Birmingham**
+**Future DevSecOps & Cyber Engineer | Birmingham**
 
 - ⚙️ **Automation:** Building scripts in Bash and Python.
-- 🛡️ **Cyber Defense:** Focused on Linux hardening and security.
+- 🛡️ **Cyber Defense:** Focused on Linux/Windows hardening and security.
 - 🏗️ **DevOps:** Learning Infrastructure as Code and CI/CD.
 
 *Documenting labs and projects here soon.*
