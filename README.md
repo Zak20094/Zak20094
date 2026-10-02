@@ -1,5 +1,5 @@
 # Hi, I'm Zak 🛡️
-**Aspiring Cyber Engineer | Birmingham**
+**Aspiring Cyber Engineer
 
 - ⚙️ **Automation:** Building scripts in Bash and Python.
 - 🛡️ **Cyber Defense:** Focused on Linux/Windows hardening and security.
